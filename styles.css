@@ -1,0 +1,33 @@
+body {
+   background-color: #000000;
+}
+p {
+   color: #ffffff;
+   text-align: center;
+}
+.title-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img { 
+    max-width: 100%;
+    vertical-align: middle;
+}
+.round-button:hover {
+    background: #777555;
+}
+.btn-group {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-100%, -225%);
+padding: 10px;
+}
+.btn-group2 {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(0%, -225%);
+padding: 10px;
+}
