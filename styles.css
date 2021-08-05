@@ -31,3 +31,10 @@ top: 50%;
 transform: translate(0%, -225%);
 padding: 10px;
 }
+.btn-group3 {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(100%, -225%);
+padding: 10px;
+}
