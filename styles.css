@@ -21,20 +21,20 @@ img {
 position: absolute;
 left: 50%;
 top: 50%;
-transform: translate(-300%, -230%);
+transform: translate(-200%, -230%);
 padding: 10px;
 }
 .btn-group2 {
 position: absolute;
 left: 50%;
 top: 50%;
-transform: translate(-200%, -230%);
+transform: translate(-100%, -230%);
 padding: 10px;
 }
 .btn-group3 {
 position: absolute;
 left: 50%;
 top: 50%;
-transform: translate(-100%, -230%);
+transform: translate(0%, -230%);
 padding: 10px;
 }
